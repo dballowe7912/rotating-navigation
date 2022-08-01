@@ -4,3 +4,5 @@ Created with Create-React-App and icons from font awesome, picture taken from un
 
 
 photo link-- 'https://unsplash.com/photos/f1kSWIe-W3k'
+
+Use npm install in root directory to install dependencies, then npm run to start on local host.
